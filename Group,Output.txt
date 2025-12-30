@@ -1,0 +1,4 @@
+Group,Output
+Slogans,"• ""Rooted in Purity, Wrapped in Gold.""• ""The Magic of Mindful Sweetness.""• ""Earth’s Goodness, Elevated."""
+Our Story,"Born from the warmth of terracotta traditions, we craft guilt-free indulgences using only pure A2 milk and organic ingredients. Experience the magic of Indian heritage reimagined for a healthier, golden tomorrow."
+Collections,"• Terracotta Treasures: Classic recipes using earth-friendly techniques.• The Golden Ghee Edit: Premium A2 milk-based delicacies.• Saffron & Soil: Organic, spice-infused signature sweets.• The Guilt-Free Glow: Low-sugar and low-gluten alternatives."
